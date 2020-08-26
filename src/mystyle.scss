@@ -1,0 +1,15 @@
+$color-primary: blue;
+$color-text: rgb(255, 255, 255);
+
+.container {
+  background-color: $color-primary;
+}
+
+.text-color {
+  color: $color-text;
+}
+
+img {
+  display: block;
+  width: 200px;
+}
